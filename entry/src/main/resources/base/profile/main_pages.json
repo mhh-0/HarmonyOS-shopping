@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/main",
+    "pages/Detiles1",
+    "pages/Detiles2",
+    "pages/Detiles3",
+    "pages/Detiles4",
+    "pages/Detiles5",
+    "pages/Detiles6",
+    "pages/Detiles7"
+
+  ]
+}
